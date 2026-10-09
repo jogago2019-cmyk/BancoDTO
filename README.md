@@ -1,6 +1,6 @@
 # Banco DTO 
 
-Hicimos este proyecto para apreder a utilizar DTOs
+Hicimos este proyecto para aprender a utilizar DTOs
 
 # Cliente.java
 ``` java
